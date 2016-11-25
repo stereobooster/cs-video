@@ -2,7 +2,7 @@
 
 Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses). There is also [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos), but I do not like it's selection of videos - there are great talks, but not all of them seems to be "timeless". So I want to build my own list. 
 
-**WIP**. PRs and issues welcomed
+**WIP**. PRs and issues are welcomed
 
 ## Unsorted
 
