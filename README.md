@@ -33,3 +33,8 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 - [An incomplete list of papers that have had some influence in Rust](https://doc.rust-lang.org/1.0.0/book/academic-research.html)
 - [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 
+### Author pages
+
+- [Luca Cardelli](http://lucacardelli.name/indexpapers.html)
+- [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/)
+- [Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html)
