@@ -41,6 +41,7 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 - [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 - [Other Good Places to Find Papers by Papers We Love](https://github.com/papers-we-love/papers-we-love/)
 - [worrydream refs](http://worrydream.com/refs/)
+- [Buridan’s Principle](http://research.microsoft.com/en-us/um/people/lamport/pubs/buridan.pdf)
 
 ### In real-world projects
 
