@@ -24,6 +24,12 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 [Make Ruby Great Again](https://vimeo.com/165527044) by Justin Searls. In this talk, @searls briefly covers the major RSpec updates for 2016 before broadening the scope of the conversation to how developers relate to their tools and then pondering Ruby's tenuous place in the world.
 
+## Inspiration
+
+[Inventing on Principle](http://worrydream.com/dbx/) by Bret Victor. 
+
+[The Future of Programming](http://worrydream.com/dbx/) by Bret Victor.
+
 ## Other collections of videos
 
 [Papers We Love](http://paperswelove.org/) is a repository of academic computer science papers and a community who loves reading them
