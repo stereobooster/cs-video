@@ -36,8 +36,12 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 ## CS papers
 
-- [An incomplete list of papers that have had some influence in Rust](https://doc.rust-lang.org/1.0.0/book/academic-research.html)
 - [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+- [Other Good Places to Find Papers by Papers We Love](https://github.com/papers-we-love/papers-we-love/)
+
+### In real-world projects
+
+- [An incomplete list of papers that have had some influence in Rust](https://doc.rust-lang.org/1.0.0/book/academic-research.html)
 
 ### Author pages
 
