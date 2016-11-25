@@ -10,6 +10,20 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) by Sandi Metz. Our code is full of hidden assumptions, things that seem like nothing, secrets that we did not name and thus cannot see. These secrets represent missing concepts and this talk shows you how to expose those concepts with code that is easy to understand, change and extend. Being explicit about hidden ideas makes your code simpler, your apps clearer and your life better. Even very small ideas matter. Everything, even nothing, is something.
 
+[Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by Rich Hickey. In his keynote at JVM Languages Summit 2009, Rich Hickey advocated for the reexamination of basic principles like state, identity, value, time, types, genericity, complexity, as they are used by OOP today, to be able to create the new constructs and languages to deal with the massive parallelism and concurrency of the future.
+
+## Databases 
+
+[Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann. Databases are global, shared, mutable state. That’s the way it has been since the 1960s, and no amount of NoSQL has changed that. However, most self-respecting developers have got rid of mutable global variables in their code long ago. So why do we tolerate databases as they are? A more promising model, used in some systems, is to think of a database as an always-growing collection of immutable facts. You can query it at some point in time — but that’s still old, imperative style thinking. A more fruitful approach is to take the streams of facts as they come in, and functionally process them in real-time.
+
+[The Database as a Value](https://www.infoq.com/presentations/Datomic-Database-Value) by Rich Hickey. Rich Hickey discusses the complexity introduced by a database into a system, and a way to deal with it by using Datomic. He also discusses immutability, epochal time, and persistent data structures.
+
 ## Other collections of videos
 
 [Papers We Love](http://paperswelove.org/) is a repository of academic computer science papers and a community who loves reading them
+
+## CS papers
+
+- [An incomplete list of papers that have had some influence in Rust](https://doc.rust-lang.org/1.0.0/book/academic-research.html)
+- [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+
