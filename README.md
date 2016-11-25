@@ -42,6 +42,7 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 - [Other Good Places to Find Papers by Papers We Love](https://github.com/papers-we-love/papers-we-love/)
 - [worrydream refs](http://worrydream.com/refs/)
 - [Buridan’s Principle](http://research.microsoft.com/en-us/um/people/lamport/pubs/buridan.pdf)
+- [Communicating Sequential Processes](http://usingcsp.com/cspbook.pdf)
 
 ### In real-world projects
 
