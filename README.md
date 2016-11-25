@@ -38,3 +38,4 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 - [Luca Cardelli](http://lucacardelli.name/indexpapers.html)
 - [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/)
 - [Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html)
+- [Martin-Löf](https://github.com/michaelt/martin-lof)
