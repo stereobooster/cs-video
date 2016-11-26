@@ -14,7 +14,7 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 [The Actor Model (everything you wanted to know, but were afraid to ask)](https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by Hewitt, Meijer and Szyperski.
 
-[Hackerdashery #1](https://www.youtube.com/watch?v=AmySxYHqQCQ)
+[Hackerdashery #1](https://www.youtube.com/watch?v=AmySxYHqQCQ), [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
 ## Databases 
 
