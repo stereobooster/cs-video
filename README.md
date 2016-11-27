@@ -34,6 +34,10 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 [The Future of Programming](http://worrydream.com/dbx/) by Bret Victor.
 
+## Math
+
+[3blue1brown](http://www.3blue1brown.com/) Animated math
+
 ## Other collections of videos
 
 [Papers We Love](http://paperswelove.org/) is a repository of academic computer science papers and a community who loves reading them
