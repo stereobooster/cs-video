@@ -40,7 +40,8 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 ## Other collections of videos
 
-[Papers We Love](http://paperswelove.org/) is a repository of academic computer science papers and a community who loves reading them
+- [Papers We Love](http://paperswelove.org/) is a repository of academic computer science papers and a community who loves reading them
+- [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 
 ## CS papers
 
