@@ -16,6 +16,9 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 
 [Hackerdashery #1](https://www.youtube.com/watch?v=AmySxYHqQCQ), [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
+[The Value of Values](https://www.infoq.com/presentations/Value-Values). Rich Hickey compares value-oriented programming with place-oriented programming concluding that the time of imperative languages has passed and it is the time of functional programming.
+
+
 ## Databases 
 
 [Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0) by Martin Kleppmann. Databases are global, shared, mutable state. That’s the way it has been since the 1960s, and no amount of NoSQL has changed that. However, most self-respecting developers have got rid of mutable global variables in their code long ago. So why do we tolerate databases as they are? A more promising model, used in some systems, is to think of a database as an always-growing collection of immutable facts. You can query it at some point in time — but that’s still old, imperative style thinking. A more fruitful approach is to take the streams of facts as they come in, and functionally process them in real-time.
@@ -46,6 +49,7 @@ Inspired by [cs-video-courses](https://github.com/Developer-Y/cs-video-courses).
 ## CS papers
 
 - [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+- [10 papers that all PhD students in programming languages ought to know, for some value of 10](https://github.com/nuprl/10PL)
 - [Other Good Places to Find Papers by Papers We Love](https://github.com/papers-we-love/papers-we-love/)
 - [worrydream refs](http://worrydream.com/refs/)
 - [Buridan’s Principle](http://research.microsoft.com/en-us/um/people/lamport/pubs/buridan.pdf)
